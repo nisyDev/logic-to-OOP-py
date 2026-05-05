@@ -29,6 +29,4 @@ Estes desafios são exemplos práticos e didáticos de como compreendi os fundam
 
 ### 3. Intermediário
 
-- /Intermed/: Conceitos avançados
- - Classe: Instanciar objeto a partir da classe.
- - Estado de objeto: o objeto muda internamente conforme métodos são chamados.
+- /Intermed/: Conceitos avançados de Classe (instanciar objeto a partir da classe) e Estado de Objeto (o objeto muda internamente conforme métodos são chamados).
