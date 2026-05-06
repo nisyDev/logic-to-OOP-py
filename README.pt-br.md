@@ -16,4 +16,4 @@ Este repositório contém minha revisão de lógica aplicada ao Python, com exer
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone (https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
