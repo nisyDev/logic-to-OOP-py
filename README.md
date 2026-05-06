@@ -15,4 +15,4 @@ This repository contains my review in logic applied to python, with exercises. M
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone (https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
