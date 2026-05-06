@@ -8,7 +8,6 @@ This repository contains my review in logic applied to python, with exercises. M
 ## Technologies
 * **Language:** Python 3.x
 * **IDE:** VS Code
-* **Libraries:** 
 
 ---
 
