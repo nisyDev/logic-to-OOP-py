@@ -7,13 +7,13 @@ Uma classe se relacionando com a outra a partir de nosso método construtor
 ### Projetos Práticos
 
 #### 1. DIP (Dependency Inversion Principle) completo
-- injecao-de-dependencia/atividade_injecao_de_dependencia.py: simulação de um cenário real de infraestrutura, acesso de dados e regra de negócio
+- injecao-de-dependencia\atividade_injecao_de_dependencia.py: simulação de um cenário real de infraestrutura, acesso de dados e regra de negócio
 
 #### 2. Injeção de parâmetro
-- injecao-de-dependencia/csv_handler.py: configuração externa simulada, sem injeção de dependência entre objetos.
+- injecao-de-dependencia\csv_handler.py: configuração externa simulada, sem injeção de dependência entre objetos.
 
 #### 3. Regra de aplicação (Regra de Negócio)
-- injecao-de-dependencia/injecao_de_dependencia.py: composição e injeção de dependência.
+- injecao-de-dependencia\injecao_de_dependencia.py: composição e injeção de dependência.
 
 
 
